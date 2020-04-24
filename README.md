@@ -445,7 +445,7 @@ plot2
 ```
 
 
-![png](output_28_0.png)
+![png](https://github.com/stegs2/IA-626-Final-Project/blob/master/output_28_0.PNG)
 
 
 
@@ -483,7 +483,7 @@ plot3
 ```
 
 
-![png](output_31_0.png)
+![png](https://github.com/stegs2/IA-626-Final-Project/blob/master/output_31_0.PNG)
 
 
 
@@ -538,7 +538,7 @@ plot4
 ```
 
 
-![png](output_35_0.png)
+![png](https://github.com/stegs2/IA-626-Final-Project/blob/master/output_35_0.PNG)
 
 
 
@@ -710,7 +710,7 @@ data_dist
 ```
 
 
-![png](output_40_0.png)
+![png](https://github.com/stegs2/IA-626-Final-Project/blob/master/output_40_0.PNG)
 
 
 
@@ -748,7 +748,7 @@ data_dist_sample
 ```
 
 
-![png](output_44_0.png)
+![png](https://github.com/stegs2/IA-626-Final-Project/blob/master/output_44_0.PNG)
 
 
 
@@ -836,7 +836,7 @@ plot_speed_density
 ```
 
 
-![png](output_47_0.png)
+![png](https://github.com/stegs2/IA-626-Final-Project/blob/master/output_47_0.PNG)
 
 
 
@@ -866,7 +866,7 @@ plot_trav_density
 ```
 
 
-![png](output_49_0.png)
+![png](https://github.com/stegs2/IA-626-Final-Project/blob/master/output_49_0.PNG)
 
 
 
@@ -1043,7 +1043,7 @@ plot_speed_density_facet
 ```
 
 
-![png](output_52_0.png)
+![png](https://github.com/stegs2/IA-626-Final-Project/blob/master/output_52_0.PNG)
 
 
 
@@ -1070,7 +1070,7 @@ plot_trav_density_facet
 ```
 
 
-![png](output_54_0.png)
+![png](https://github.com/stegs2/IA-626-Final-Project/blob/master/output_54_0.PNG)
 
 
 
@@ -1690,7 +1690,7 @@ hour_plot
 ```
 
 
-![png](output_64_0.png)
+![png](https://github.com/stegs2/IA-626-Final-Project/blob/master/output_64_0.PNG)
 
 
 
@@ -1715,7 +1715,7 @@ travel_plot
 ```
 
 
-![png](output_66_0.png)
+![png](https://github.com/stegs2/IA-626-Final-Project/blob/master/output_66_0.PNG)
 
 
 
@@ -1752,7 +1752,7 @@ hour_plot2
 ```
 
 
-![png](output_69_0.png)
+![png](https://github.com/stegs2/IA-626-Final-Project/blob/master/output_69_0.PNG)
 
 
 
@@ -1777,7 +1777,7 @@ travel_plot2
 ```
 
 
-![png](output_70_0.png)
+![png](https://github.com/stegs2/IA-626-Final-Project/blob/master/output_70_0.PNG)
 
 
 
