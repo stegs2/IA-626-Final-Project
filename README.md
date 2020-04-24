@@ -538,7 +538,7 @@ plot4
 ```
 
 
-![png](https://github.com/stegs2/IA-626-Final-Project/blob/master/output_35_0.PNG)
+![png](https://github.com/stegs2/IA-626-Final-Project/blob/master/output_35_0.png)
 
 
 
