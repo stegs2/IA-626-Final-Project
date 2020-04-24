@@ -421,7 +421,7 @@ plot1
 ```
 
 
-![png](output_26_0.png)
+![png](https://github.com/stegs2/IA-626-Final-Project/blob/master/output_26_0.PNG)
 
 
 
