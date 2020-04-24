@@ -710,7 +710,7 @@ data_dist
 ```
 
 
-![png](https://github.com/stegs2/IA-626-Final-Project/blob/master/output_40_0.PNG)
+![png](https://github.com/stegs2/IA-626-Final-Project/blob/master/output_40_0.png)
 
 
 
@@ -748,7 +748,7 @@ data_dist_sample
 ```
 
 
-![png](https://github.com/stegs2/IA-626-Final-Project/blob/master/output_44_0.PNG)
+![png](https://github.com/stegs2/IA-626-Final-Project/blob/master/output_44_0.png)
 
 
 
@@ -836,7 +836,7 @@ plot_speed_density
 ```
 
 
-![png](https://github.com/stegs2/IA-626-Final-Project/blob/master/output_47_0.PNG)
+![png](https://github.com/stegs2/IA-626-Final-Project/blob/master/output_47_0.png)
 
 
 
@@ -866,7 +866,7 @@ plot_trav_density
 ```
 
 
-![png](https://github.com/stegs2/IA-626-Final-Project/blob/master/output_49_0.PNG)
+![png](https://github.com/stegs2/IA-626-Final-Project/blob/master/output_49_0.png)
 
 
 
@@ -1690,7 +1690,7 @@ hour_plot
 ```
 
 
-![png](https://github.com/stegs2/IA-626-Final-Project/blob/master/output_64_0.PNG)
+![png](https://github.com/stegs2/IA-626-Final-Project/blob/master/output_64_0.png)
 
 
 
@@ -1715,7 +1715,7 @@ travel_plot
 ```
 
 
-![png](https://github.com/stegs2/IA-626-Final-Project/blob/master/output_66_0.PNG)
+![png](https://github.com/stegs2/IA-626-Final-Project/blob/master/output_66_0.png)
 
 
 
@@ -1752,7 +1752,7 @@ hour_plot2
 ```
 
 
-![png](https://github.com/stegs2/IA-626-Final-Project/blob/master/output_69_0.PNG)
+![png](https://github.com/stegs2/IA-626-Final-Project/blob/master/output_69_0.png)
 
 
 
@@ -1777,7 +1777,7 @@ travel_plot2
 ```
 
 
-![png](https://github.com/stegs2/IA-626-Final-Project/blob/master/output_70_0.PNG)
+![png](https://github.com/stegs2/IA-626-Final-Project/blob/master/output_70_0.png)
 
 
 
