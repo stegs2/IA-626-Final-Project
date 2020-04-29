@@ -1304,13 +1304,6 @@ avg_by_hour.drop('index', axis=1, inplace=True)
 avg_by_hour
 ```
 
-
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
  
 </style>
 <table border="1" class="dataframe">
